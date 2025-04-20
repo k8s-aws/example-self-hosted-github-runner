@@ -1,6 +1,6 @@
 # example-self-hosted-github-runner
 
-Deploys self hosted AWS CodeBuild Gitub runners (both public and private) that can be used with Github Actions
+Deploys self hosted AWS CodeBuild Gitub runners (both public and private) using AWS CDK
 
 ## Steps to deploy
 
